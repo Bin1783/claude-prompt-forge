@@ -100,5 +100,6 @@
 
 
 ```
-致谢
-Linux.Do 社区
+ ## 致谢
+
+  - [Linux.Do 社区](https://linux.do/) — 感谢社区的支持与交流
