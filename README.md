@@ -99,6 +99,6 @@
   通过阅读 Claude Code 还原后的源码（services/compact/prompt.ts、constants/prompts.ts、tools/*/prompt.ts、services/extractMemories/prompts.ts 等 40+ 个提示词文件），识别反复出现的结构模式，提炼为可复用的设计规则。
 
 
-
+```
 致谢
 Linux.Do 社区
